@@ -1,26 +1,27 @@
-# Event-Management-System
-The repository is a part of course work for CS 213 Programming Languages-2 - FCAI-HU
+The repository is a part of course work for CS 213 Programming Languages-2 - FCAI-HU.
 
-The system is a java console application Following the OOP Paradigm connected to a Microsoft SQl [Database](https://github.com/Abdelkareem-Anwar/Event-Management-System/blob/home/Database_ER_Model.pdf)
+The system is a Java console application following the OOP paradigm connected to a [Microsoft SQL Database](https://github.com/Abdelkareem-Anwar/Event-Management-System/blob/home/Database_ER_Model.pdf).
 
-## It Consists of: 
-## 1 - Customer Module 
-a. Enables customer to create account. 
-b. Enables customer to book an event with full details. 
-c. System will send email automatically to notify customer with reservation 
-number and password to login. 
-d. Enables customer to manage booking 
-e. Enables customer to contact with project manager 
- 
-## 2 – Project Manager Module 
-a. Enables PM to receive customer requests 
-b. Send customer requests to service provides and follow them 
-c. Enables PM to contact with customers 
-d. Enables PM to show bill for customer. 
-## 3 – Service Provider Module 
-a. Enables SP to receive customer requests from PM 
-b. Enables SP to price value of request and resend it to PM 
-c. Enables SP to determine ready date for request. 
-## 4- Admin Module 
-a. Enables admin to receive requests from customer and resend requests to PM 
-b. Enables admin to add / update / delete users with different roles. 
+## It Consists of:
+
+### 1 - Customer Module 
+- Enables customer to create an account.
+- Enables customer to book an event with full details.
+- System will send an email automatically to notify the customer with reservation number and password to login.
+- Enables customer to manage booking.
+- Enables customer to contact the project manager.
+
+### 2 – Project Manager Module 
+- Enables PM to receive customer requests.
+- Sends customer requests to service providers and follows them.
+- Enables PM to contact customers.
+- Enables PM to show the bill for the customer.
+
+### 3 – Service Provider Module 
+- Enables SP to receive customer requests from PM.
+- Enables SP to price value of request and resend it to PM.
+- Enables SP to determine the ready date for the request.
+
+### 4- Admin Module 
+- Enables admin to receive requests from customers and resend requests to PM.
+- Enables admin to add / update / delete users with different roles.
